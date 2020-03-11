@@ -39,14 +39,17 @@ facebook.net
 thefacebook.com
 fb.me
 fbcdn.net
+akamaihd.net
 ```
 
 ### Twitter
 ```
-twimg.com
 twitter.com
+twimg.com
 t.co
 yfrog.com
+tinypic.com
+bitly.com
 ```
 
 ### Tumblr
@@ -81,6 +84,7 @@ notion.so
 ```
 instagram.com
 cdninstagram.com
+fbcdn.net
 ```
 
 ### Imgur
@@ -93,10 +97,26 @@ imgur.com
 mobile01.com
 ```
 
+### Blogger
+```
+blogger.com
+blogspot.com
+```
+
 ### Bitly
 ```
 bit.ly
 bitly.com
+```
+
+### Feedly
+```
+feedly.com
+```
+
+### BTDigg
+```
+btdigg.org
 ```
 
 ## Media
@@ -291,6 +311,11 @@ githubusercontent.com
 fastly.net
 ```
 
+### SourceForge
+```
+sourceforge.net
+```
+
 ## Porn
 
 ### Pornhub
@@ -305,7 +330,7 @@ pornhubpremium.com
 91porn.com
 ```
 
-### t66y
+### 1024
 ```
 t66y.com
 ```
