@@ -2,7 +2,7 @@
 
 [toc]
 
-## General
+## General/一般网站
 
 ### Google
 ```
@@ -119,7 +119,14 @@ feedly.com
 btdigg.org
 ```
 
-## Media
+### Rarbg
+```
+rarbg.me
+rarbg.to
+rarbgprx.org
+```
+
+## Media/流媒体
 
 ### Youtube
 ```
@@ -233,14 +240,7 @@ mytvsuper.com
 tvb.com
 ```
 
-### Rarbg
-```
-rarbg.me
-rarbg.to
-rarbgprx.org
-```
-
-## IM
+## IM/即时通讯
 
 ### Line
 ```
@@ -259,7 +259,7 @@ telegram.org
 t.me
 ```
 
-## News
+## News/新闻
 
 ### BBC
 ```
@@ -283,14 +283,14 @@ nytimes.com
 wsj.com
 ```
 
-## Game
+## Game/游戏
 
 ### Gameloft
 ```
 gameloft.com
 ```
 
-## Technology
+## Technology/技术
 
 ### Docker
 ```
@@ -316,7 +316,7 @@ fastly.net
 sourceforge.net
 ```
 
-## Porn
+## Porn/18x
 
 ### Pornhub
 ```
