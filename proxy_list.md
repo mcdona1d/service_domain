@@ -286,7 +286,9 @@ aws.amazon.com
 ### Github
 ```
 github.com
+githubapp.com
 githubusercontent.com
+fastly.net
 ```
 
 ## Porn
