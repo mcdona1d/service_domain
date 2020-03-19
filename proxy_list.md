@@ -50,6 +50,7 @@ t.co
 yfrog.com
 tinypic.com
 bitly.com
+edgecastdns.net
 ```
 
 ### Tumblr
@@ -285,12 +286,28 @@ wsj.com
 
 ## Game/游戏
 
+### PlayStation
+```
+playstation.net
+```
+
+### Activision
+```
+activision.com
+demonware.net
+```
+
 ### Gameloft
 ```
 gameloft.com
 ```
 
 ## Technology/技术
+
+### Homebrew
+```
+bintray.com
+```
 
 ### Docker
 ```
@@ -301,6 +318,7 @@ docker.com
 ### AWS
 ```
 aws.amazon.com
+amazonaws.com
 ```
 
 ### Github
