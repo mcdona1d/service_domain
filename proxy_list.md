@@ -251,6 +251,9 @@ line.naver.jp
 line-apps.com
 line-cdn.net
 line-scdn.net
+line-scdn.net.edgekey.net
+line-scdn.net.line-zero.akadns.net
+e3998.d.akamaiedge.net
 nhncorp.jp
 ```
 
@@ -291,6 +294,17 @@ wsj.com
 playstation.net
 ```
 
+### Nintendo
+```
+
+srv.nintendo.net #用于联机
+
+hac.lp1.d4c.nintendo.net #用于下载
+
+akamai.com #实际cdn服务商
+akamaiedge.net
+```
+
 ### Activision
 ```
 activision.com
@@ -313,6 +327,12 @@ bintray.com
 ```
 docker.io
 docker.com
+```
+
+### k8s
+```
+k8s.io
+gcr.io
 ```
 
 ### AWS
