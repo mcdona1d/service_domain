@@ -1,11 +1,7 @@
-# Proxy_list
-
-[toc]
-
 ## General/一般网站
 
 ### Google
-```
+
 google.com
 google.co.jp
 google.com.hk
@@ -20,30 +16,30 @@ ggpht.com
 appspot.com
 goo.gl
 g.co
-```
+
 
 ### Android
-```
+
 android.com
-```
+
 
 ### Apkpure
-```
+
 apkpure.com
-```
+
 
 ### Facebook
-```
+
 facebook.com
 facebook.net
 thefacebook.com
 fb.me
 fbcdn.net
 akamaihd.net
-```
+
 
 ### Twitter
-```
+
 twitter.com
 twimg.com
 t.co
@@ -51,94 +47,95 @@ yfrog.com
 tinypic.com
 bitly.com
 edgecastdns.net
-```
+
 
 ### Tumblr
-```
+
 tumblr.com
 umblr.com
-```
+
 
 ### Dropbox
-```
+
 dropbox.com
-```
+
 
 
 ### Reddit
-```
+
 redd.it
 reddit.com
-```
+
 
 ### Wikipedia
-```
+
 wikipedia.org
-```
+wikimedia.org
+
 
 ### Notion
-```
+
 notion.so
-```
+
 
 ### Instagram
-```
+
 instagram.com
 cdninstagram.com
 fbcdn.net
-```
+
 
 ### Imgur
-```
+
 imgur.com
-```
+
 
 ### Mobile01
-```
+
 mobile01.com
-```
+
 
 ### Blogger
-```
+
 blogger.com
 blogspot.com
-```
+
 
 ### Bitly
-```
+
 bit.ly
 bitly.com
-```
+
 
 ### Feedly
-```
+
 feedly.com
-```
+
 
 ### BTDigg
-```
+
 btdigg.org
-```
+
 
 ### Rarbg
-```
+
 rarbg.me
 rarbg.to
 rarbgprx.org
-```
+
 
 ## Media/流媒体
 
 ### Youtube
-```
+
 youtu.be
 youtube-nocookie.com
 youtube.com
 ytimg.com
-```
+
 
 ### Netflix
-```
+
 netflix.com
 netflix.net
 nflximg.net
@@ -146,17 +143,18 @@ nflximg.com
 nflxvideo.net
 nflxso.net
 nflxext.com
-```
+amazonaws.com
+
 
 ### Hulu
-```
+
 hulu.com
 huluim.com
 hulustream.com
-```
+
 
 ### HBO
-```
+
 hbonow.com
 hbogo.com
 hbo.com
@@ -164,54 +162,54 @@ hbogoasia.hk
 hbogoasia.com
 hboasia.com
 amazonaws.com
-```
+
 
 ### ABC
-```
+
 abc.com
 dgedatg.com
-```
+
 
 ### Amazon Prime Video
-```
+
 aiv-cdn.net
 amazonaws.com
 amazonvideo.com
 llnwd.net
-```
+
 
 ### Abema TV
-```
+
 abema.io
 akamaized.net
 ameba.jp
 hayabusa.io
-```
+
 
 ### Bilibili
-```
+
 bilibili.com
-```
+
 
 ### 动画疯
-```
+
 gamer2-cds.cdn.hinet.net
 gamer-cds.cdn.hinet.net
 gamer.com.tw
 i2.bahamut.com.tw
 app-measurement.com
-```
+
 
 ### FOX+
-```
+
 fox.comfoxdng.com
 foxnow.com
 foxplus.com
 foxplay.com
-```
+
 
 ### Disney
-```
+
 disney.com
 disneyjunior.com
 disneyplus.com
@@ -221,30 +219,30 @@ bamgrid.com
 amazonaws.com
 go.com
 starwave.com
-```
+
 
 ### Niconico
-```
+
 nicovideo.jp
-```
+
 
 ### Spotify
-```
+
 spotify.com
 spoti.fi
 scdn.co
-```
+
 
 ### TVB
-```
+
 mytvsuper.com
 tvb.com
-```
+
 
 ## IM/即时通讯
 
 ### Line
-```
+
 lin.ee
 line.me
 line.naver.jp
@@ -255,120 +253,131 @@ line-scdn.net.edgekey.net
 line-scdn.net.line-zero.akadns.net
 e3998.d.akamaiedge.net
 nhncorp.jp
-```
+
 
 ### Telegram
-```
+
 telegram.org
 t.me
-```
+
 
 ## News/新闻
 
 ### BBC
-```
+
 bbc.com
-```
+
 
 ### Voa
-```
+
 voachinese.com
 voanews.com
-```
+
 
 ### Nytimes
-```
+
 nytchina.com
 nytimes.com
-```
+
 
 ### WSJ
-```
+
 wsj.com
-```
+
 
 ## Game/游戏
 
 ### PlayStation
-```
+
 playstation.net
-```
+
 
 ### Nintendo
-```
 
-srv.nintendo.net #用于联机
+//用于联机
+srv.nintendo.net
 
-hac.lp1.d4c.nintendo.net #用于下载
+//用于下载
+hac.lp1.d4c.nintendo.net
 
-akamai.com #实际cdn服务商
+//实际cdn服务商
+akamai.com
 akamaiedge.net
-```
+
 
 ### Activision
-```
+
 activision.com
 demonware.net
-```
+
 
 ### Gameloft
-```
+
 gameloft.com
-```
+
 
 ## Technology/技术
 
 ### Homebrew
-```
+
 bintray.com
-```
+
 
 ### Docker
-```
+
 docker.io
 docker.com
-```
+
 
 ### k8s
-```
+
 k8s.io
 gcr.io
-```
+
 
 ### AWS
-```
+
 aws.amazon.com
 amazonaws.com
-```
+
+
+### amazon.co.jp
+
+amzn.to
+data-fe.amazon.com
+unagi-fe.amazon.com
+ssl-images-amazon.com
+amazon.co.jp
+
 
 ### Github
-```
+
 github.com
 githubapp.com
 githubusercontent.com
 fastly.net
-```
+
 
 ### SourceForge
-```
+
 sourceforge.net
-```
+
 
 ## Porn/18x
 
 ### Pornhub
-```
+
 pornhub.com
 pornhublive.com
 pornhubpremium.com
-```
+
 
 ### 91porn
-```
+
 91porn.com
-```
+
 
 ### 1024
-```
+
 t66y.com
-```
+
